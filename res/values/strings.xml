@@ -4,5 +4,10 @@
     <string name="app_name">speakR</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    
+    
+    <!-- Login Screen -->
+    <string name="help_text">Help?</string>
+    <string name="userName">Username:</string>
 
 </resources>
